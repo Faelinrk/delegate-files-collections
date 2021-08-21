@@ -1,0 +1,7 @@
+C:\Users\faeli\source\repos\homework6\homework6\bin\Debug\homework6.exe.config
+C:\Users\faeli\source\repos\homework6\homework6\bin\Debug\homework6.exe
+C:\Users\faeli\source\repos\homework6\homework6\bin\Debug\homework6.pdb
+C:\Users\faeli\source\repos\homework6\homework6\obj\Debug\homework6.csprojAssemblyReference.cache
+C:\Users\faeli\source\repos\homework6\homework6\obj\Debug\homework6.csproj.CoreCompileInputs.cache
+C:\Users\faeli\source\repos\homework6\homework6\obj\Debug\homework6.exe
+C:\Users\faeli\source\repos\homework6\homework6\obj\Debug\homework6.pdb
